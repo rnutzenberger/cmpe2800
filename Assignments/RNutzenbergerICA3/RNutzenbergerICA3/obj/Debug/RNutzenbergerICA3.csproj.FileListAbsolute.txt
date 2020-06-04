@@ -1,0 +1,9 @@
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenbergerICA3\RNutzenbergerICA3\bin\Debug\RNutzenbergerICA3.exe.config
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenbergerICA3\RNutzenbergerICA3\bin\Debug\RNutzenbergerICA3.exe
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenbergerICA3\RNutzenbergerICA3\bin\Debug\RNutzenbergerICA3.pdb
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenbergerICA3\RNutzenbergerICA3\obj\Debug\RNutzenbergerICA3.csprojAssemblyReference.cache
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenbergerICA3\RNutzenbergerICA3\obj\Debug\RNutzenbergerICA3.Form1.resources
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenbergerICA3\RNutzenbergerICA3\obj\Debug\RNutzenbergerICA3.Properties.Resources.resources
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenbergerICA3\RNutzenbergerICA3\obj\Debug\RNutzenbergerICA3.csproj.GenerateResource.cache
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenbergerICA3\RNutzenbergerICA3\obj\Debug\RNutzenbergerICA3.exe
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenbergerICA3\RNutzenbergerICA3\obj\Debug\RNutzenbergerICA3.pdb
