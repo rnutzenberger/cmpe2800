@@ -1,0 +1,6 @@
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenebergerICA2\RNutzenebergerICA2\bin\Debug\RNutzenebergerICA2.exe.config
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenebergerICA2\RNutzenebergerICA2\bin\Debug\RNutzenebergerICA2.exe
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenebergerICA2\RNutzenebergerICA2\bin\Debug\RNutzenebergerICA2.pdb
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenebergerICA2\RNutzenebergerICA2\obj\Debug\RNutzenebergerICA2.csprojAssemblyReference.cache
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenebergerICA2\RNutzenebergerICA2\obj\Debug\RNutzenebergerICA2.exe
+C:\Users\rnutz\Desktop\SVN\cmpe2800\ICAs\RNutzenebergerICA2\RNutzenebergerICA2\obj\Debug\RNutzenebergerICA2.pdb
